@@ -22,6 +22,8 @@ From initial analysis there were no missing values and fraud cases to non fraud 
   
   We can observe some Parameters such as V2, V4, V8, V11, V19, V20, V26, V27, seem to have an possitive correlation with fraud. We can see that more in depth when comparing their box plots and distributions (seen below)
   
+  ![Violin plot of positively correlated to class](/images/positive_corr.png?raw=true)
+  
   3. **T-tests**
   After finding correlations of the componetes with fraud, we check for statistal differences in our postively correlated parameters before modeling, just for piece of mind and to know what the most infuencing factor would be. 
   
